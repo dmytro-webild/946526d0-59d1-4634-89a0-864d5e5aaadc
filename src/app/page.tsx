@@ -2,7 +2,7 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
-import HeroBillboardCarousel from '@/components/sections/hero/HeroBillboardCarousel';
+import HeroBillboardGallery from '@/components/sections/hero/HeroBillboardGallery';
 import MetricSplitMediaAbout from '@/components/sections/about/MetricSplitMediaAbout';
 import ProductCardTwo from '@/components/sections/product/ProductCardTwo';
 import FeatureCardNineteen from '@/components/sections/feature/FeatureCardNineteen';
@@ -43,7 +43,7 @@ export default function LandingPage() {
       </div>
 
       <div id="hero" data-section="hero">
-        <HeroBillboardCarousel
+        <HeroBillboardGallery
           title="Toko Ikan Mas Koki Berkualitas di Karawang"
           description="Menyediakan berbagai jenis Goldfish sehat dan berkualitas untuk kolektor, hobiis, dan pemula. Ikan kami dirawat dengan sempurna untuk memastikan kesehatan dan warna terbaik."
           tag="⭐ 5.0 Rating dari Google"
@@ -53,7 +53,7 @@ export default function LandingPage() {
             { text: "📞 Hubungi Sekarang", href: "tel:+6281231223553" },
             { text: "💬 Chat WhatsApp", href: "https://wa.me/6281231223553" }
           ]}
-          mediaItems={[
+          galleryItems={[
             {
               imageSrc: "http://img.b2bpic.net/free-photo/halfmoon-betta-fish_1150-7815.jpg",              imageAlt: "Koleksi ikan mas koki premium di akuarium"
             },
@@ -68,6 +68,9 @@ export default function LandingPage() {
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=1",              imageAlt: "Ikan ryukin berkualitas sempurna"
+            },
+            {
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg",              imageAlt: "Ikan mas koki muda sehat"
             }
           ]}
         />
