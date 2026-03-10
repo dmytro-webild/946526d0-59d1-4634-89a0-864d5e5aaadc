@@ -53,7 +53,7 @@ export default function LandingPage() {
             { text: "📞 Hubungi Sekarang", href: "tel:+6281231223553" },
             { text: "💬 Chat WhatsApp", href: "https://wa.me/6281231223553" }
           ]}
-          galleryItems={[
+          mediaItems={[
             {
               imageSrc: "http://img.b2bpic.net/free-photo/halfmoon-betta-fish_1150-7815.jpg",              imageAlt: "Koleksi ikan mas koki premium di akuarium"
             },
@@ -73,6 +73,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg",              imageAlt: "Ikan mas koki muda sehat"
             }
           ]}
+          mediaAnimation="slide-up"
         />
       </div>
 
