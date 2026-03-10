@@ -10,7 +10,7 @@ import TestimonialCardSix from '@/components/sections/testimonial/TestimonialCar
 import FaqSplitMedia from '@/components/sections/faq/FaqSplitMedia';
 import ContactCenter from '@/components/sections/contact/ContactCenter';
 import FooterBase from '@/components/sections/footer/FooterBase';
-import { Star, Award, Fish } from 'lucide-react';
+import { Star, Award, Fish, MapPin } from 'lucide-react';
 
 export default function LandingPage() {
   return (
@@ -186,6 +186,34 @@ export default function LandingPage() {
             },
             {
               id: "6",              name: "Linda Kusuma",              handle: "Kolektor Premium",              testimonial: "Ikan-ikan show quality mereka sangat kompetitif. Sudah menang beberapa kompetisi dengan ikan yang saya beli dari sini.",              imageSrc: "http://img.b2bpic.net/free-photo/cute-smiling-curly-woman-lean-wall_176420-16738.jpg",              imageAlt: "Linda Kusuma"
+            }
+          ]}
+        />
+      </div>
+
+      <div id="location" data-section="location">
+        <FeatureCardNineteen
+          title="Lokasi Toko Kami"
+          description="Kunjungi toko kami di lokasi strategis Karawang untuk melihat koleksi ikan mas koki berkualitas premium"
+          tag="Lokasi"
+          tagIcon={MapPin}
+          textboxLayout="default"
+          useInvertedBackground={false}
+          features={[
+            {
+              id: 1,
+              tag: "Alamat",              title: "Perumahan Villa Permata Hijau",              subtitle: "Blok A5 No. 10, Pasirjengkol, Majalaya, Karawang",              description: "Lokasi toko kami berada di Perumahan Villa Permata Hijau dengan akses mudah dari berbagai arah. Kami memiliki parkiran luas dan fasilitas yang nyaman untuk Anda berkunjung.",              imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg",              imageAlt: "Lokasi toko di Karawang"
+            },
+            {
+              id: 2,
+              tag: "Jam Operasional",              title: "Buka Setiap Hari",              subtitle: "Senin - Minggu, 09:00 - 18:00",              description: "Toko kami buka setiap hari untuk melayani Anda. Kami juga menerima pemesanan online kapan saja. Hubungi kami terlebih dahulu untuk memastikan ketersediaan barang atau jadwal kunjungan khusus.",              imageSrc: "http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg?_wi=2",              imageAlt: "Jam operasional toko"
+            },
+            {
+              id: 3,
+              tag: "Kontak",              title: "Hubungi Kami Sekarang",              subtitle: "Siap melayani pertanyaan Anda",              description: "Hubungi kami melalui WhatsApp untuk pertanyaan produk, pemesanan, atau konsultasi perawatan ikan. Tim kami siap membantu Anda dengan cepat dan profesional.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=2",              imageAlt: "Hubungi kami",              buttons={[
+                { text: "Chat WhatsApp", href: "https://wa.me/6281231223553" },
+                { text: "Telepon", href: "tel:+6281231223553" }
+              ]}
             }
           ]}
         />
