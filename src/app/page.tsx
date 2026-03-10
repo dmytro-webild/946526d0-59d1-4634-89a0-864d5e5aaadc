@@ -210,10 +210,10 @@ export default function LandingPage() {
             },
             {
               id: 3,
-              tag: "Kontak",              title: "Hubungi Kami Sekarang",              subtitle: "Siap melayani pertanyaan Anda",              description: "Hubungi kami melalui WhatsApp untuk pertanyaan produk, pemesanan, atau konsultasi perawatan ikan. Tim kami siap membantu Anda dengan cepat dan profesional.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=2",              imageAlt: "Hubungi kami",              buttons={[
+              tag: "Kontak",              title: "Hubungi Kami Sekarang",              subtitle: "Siap melayani pertanyaan Anda",              description: "Hubungi kami melalui WhatsApp untuk pertanyaan produk, pemesanan, atau konsultasi perawatan ikan. Tim kami siap membantu Anda dengan cepat dan profesional.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=2",              imageAlt: "Hubungi kami",              buttons: [
                 { text: "Chat WhatsApp", href: "https://wa.me/6281231223553" },
                 { text: "Telepon", href: "tel:+6281231223553" }
-              ]}
+              ]
             }
           ]}
         />
