@@ -150,7 +150,7 @@ export default function LandingPage() {
             },
             {
               id: 4,
-              tag: "Lokasi",              title: "Lokasi Strategis di Karawang",              subtitle: "Mudah dijangkau dari mana saja",              description: "Toko kami berlokasi di Perumahan Villa Permata Hijau, Majalaya, Karawang. Akses mudah dengan berbagai moda transportasi dan parkiran yang luas untuk kenyamanan Anda.",              imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg",              imageAlt: "Lokasi toko di Karawang"
+              tag: "Lokasi",              title: "Lokasi Strategis di Karawang",              subtitle: "Mudah dijangkau dari mana saja",              description: "Toko kami berlokasi di Perumahan Villa Permata Hijau, Majalaya, Karawang. Akses mudah dengan berbagai moda transportasi dan parkiran yang luas untuk kenyamanan Anda.",              imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg?_wi=1",              imageAlt: "Lokasi toko di Karawang"
             },
             {
               id: 5,
@@ -202,7 +202,7 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              tag: "Alamat",              title: "Perumahan Villa Permata Hijau",              subtitle: "Blok A5 No. 10, Pasirjengkol, Majalaya, Karawang",              description: "Lokasi toko kami berada di Perumahan Villa Permata Hijau dengan akses mudah dari berbagai arah. Kami memiliki parkiran luas dan fasilitas yang nyaman untuk Anda berkunjung.",              imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg",              imageAlt: "Lokasi toko di Karawang"
+              tag: "Alamat",              title: "Perumahan Villa Permata Hijau",              subtitle: "Blok A5 No. 10, Pasirjengkol, Majalaya, Karawang",              description: "Lokasi toko kami berada di Perumahan Villa Permata Hijau dengan akses mudah dari berbagai arah. Kami memiliki parkiran luas dan fasilitas yang nyaman untuk Anda berkunjung.",              imageSrc: "http://img.b2bpic.net/free-photo/map-marked-with-pins-by-tourist_23-2148232411.jpg?_wi=2",              imageAlt: "Lokasi toko di Karawang"
             },
             {
               id: 2,
