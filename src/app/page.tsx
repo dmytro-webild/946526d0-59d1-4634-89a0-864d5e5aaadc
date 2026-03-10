@@ -58,16 +58,16 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/halfmoon-betta-fish_1150-7815.jpg",              imageAlt: "Koleksi ikan mas koki premium di akuarium"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg",              imageAlt: "Ikan ranchu berkualitas tinggi"
+              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg?_wi=1",              imageAlt: "Ikan ranchu berkualitas tinggi"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg",              imageAlt: "Ikan oranda cantik di air"
+              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg?_wi=1",              imageAlt: "Ikan oranda cantik di air"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg",              imageAlt: "Ikan lionhead premium collection"
+              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg?_wi=1",              imageAlt: "Ikan lionhead premium collection"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg",              imageAlt: "Ikan ryukin berkualitas sempurna"
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=1",              imageAlt: "Ikan ryukin berkualitas sempurna"
             }
           ]}
         />
@@ -83,7 +83,7 @@ export default function LandingPage() {
             { value: "5.0★", title: "Rating Google Sempurna" },
             { value: "1000+", title: "Pelanggan Puas di Karawang" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg?_wi=1"
           imageAlt="Toko ikan Tansil Goldfish profesional"
           useInvertedBackground={false}
           mediaAnimation="slide-up"
@@ -103,19 +103,19 @@ export default function LandingPage() {
           products={[
             {
               id: "1",              brand: "Tansil Goldfish",              name: "Ranchu Goldfish",              price: "Rp 150.000 - Rp 500.000",              rating: 5,
-              reviewCount: "98",              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg",              imageAlt: "Ikan ranchu berkualitas tinggi"
+              reviewCount: "98",              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg?_wi=2",              imageAlt: "Ikan ranchu berkualitas tinggi"
             },
             {
               id: "2",              brand: "Tansil Goldfish",              name: "Oranda Goldfish",              price: "Rp 120.000 - Rp 400.000",              rating: 5,
-              reviewCount: "87",              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg",              imageAlt: "Ikan oranda cantik dan sehat"
+              reviewCount: "87",              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg?_wi=2",              imageAlt: "Ikan oranda cantik dan sehat"
             },
             {
               id: "3",              brand: "Tansil Goldfish",              name: "Lionhead Goldfish",              price: "Rp 180.000 - Rp 550.000",              rating: 5,
-              reviewCount: "92",              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg",              imageAlt: "Ikan lionhead premium"
+              reviewCount: "92",              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg?_wi=2",              imageAlt: "Ikan lionhead premium"
             },
             {
               id: "4",              brand: "Tansil Goldfish",              name: "Ryukin Goldfish",              price: "Rp 100.000 - Rp 350.000",              rating: 5,
-              reviewCount: "76",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg",              imageAlt: "Ikan ryukin berkualitas"
+              reviewCount: "76",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=2",              imageAlt: "Ikan ryukin berkualitas"
             },
             {
               id: "5",              brand: "Tansil Goldfish",              name: "Baby Goldfish",              price: "Rp 25.000 - Rp 75.000",              rating: 5,
@@ -137,15 +137,15 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              tag: "Kualitas",              title: "Ikan Sehat & Berkualitas",              subtitle: "Setiap ikan dipilih dengan standar kualitas tertinggi",              description: "Kami hanya menjual ikan yang telah melewati seleksi ketat untuk memastikan kesehatan, vitalitas, dan keindahan. Setiap ikan dipastikan bebas penyakit dan dalam kondisi prima.",              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg",              imageAlt: "Ikan berkualitas tinggi"
+              tag: "Kualitas",              title: "Ikan Sehat & Berkualitas",              subtitle: "Setiap ikan dipilih dengan standar kualitas tertinggi",              description: "Kami hanya menjual ikan yang telah melewati seleksi ketat untuk memastikan kesehatan, vitalitas, dan keindahan. Setiap ikan dipastikan bebas penyakit dan dalam kondisi prima.",              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg?_wi=3",              imageAlt: "Ikan berkualitas tinggi"
             },
             {
               id: 2,
-              tag: "Perawatan",              title: "Dirawat dengan Baik",              subtitle: "Fasilitas perawatan profesional dan modern",              description: "Tank kami dilengkapi dengan sistem aerasi dan filtrasi profesional. Setiap ikan mendapat nutrisi optimal dan lingkungan yang ideal untuk tumbuh dan bersinar dengan warna terbaik.",              imageSrc: "http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg",              imageAlt: "Fasilitas toko profesional"
+              tag: "Perawatan",              title: "Dirawat dengan Baik",              subtitle: "Fasilitas perawatan profesional dan modern",              description: "Tank kami dilengkapi dengan sistem aerasi dan filtrasi profesional. Setiap ikan mendapat nutrisi optimal dan lingkungan yang ideal untuk tumbuh dan bersinar dengan warna terbaik.",              imageSrc: "http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg?_wi=2",              imageAlt: "Fasilitas toko profesional"
             },
             {
               id: 3,
-              tag: "Layanan",              title: "Cocok untuk Semua Level",              subtitle: "Dari pemula hingga kolektor berpengalaman",              description: "Kami melayani hobiis pemula dengan konsultasi lengkap, hingga kolektor profesional dengan ikan show quality. Tim kami siap membantu Anda memilih ikan yang tepat sesuai kebutuhan.",              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg",              imageAlt: "Variasi jenis ikan lengkap"
+              tag: "Layanan",              title: "Cocok untuk Semua Level",              subtitle: "Dari pemula hingga kolektor berpengalaman",              description: "Kami melayani hobiis pemula dengan konsultasi lengkap, hingga kolektor profesional dengan ikan show quality. Tim kami siap membantu Anda memilih ikan yang tepat sesuai kebutuhan.",              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg?_wi=3",              imageAlt: "Variasi jenis ikan lengkap"
             },
             {
               id: 4,
@@ -153,7 +153,7 @@ export default function LandingPage() {
             },
             {
               id: 5,
-              tag: "Kepercayaan",              title: "Rating 5.0 dari Pelanggan",              subtitle: "Dipercaya oleh ribuan pelanggan puas",              description: "Testimoni positif dari pelanggan di seluruh Karawang membuktikan komitmen kami terhadap kepuasan pelanggan. Bergabunglah dengan ribuan kolektor yang puas dengan layanan kami.",              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg",              imageAlt: "Kepuasan pelanggan terbukti"
+              tag: "Kepercayaan",              title: "Rating 5.0 dari Pelanggan",              subtitle: "Dipercaya oleh ribuan pelanggan puas",              description: "Testimoni positif dari pelanggan di seluruh Karawang membuktikan komitmen kami terhadap kepuasan pelanggan. Bergabunglah dengan ribuan kolektor yang puas dengan layanan kami.",              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg?_wi=3",              imageAlt: "Kepuasan pelanggan terbukti"
             }
           ]}
         />
@@ -197,7 +197,7 @@ export default function LandingPage() {
           tag="FAQ"
           textboxLayout="default"
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg?_wi=3"
           imageAlt="Toko Tansil Goldfish"
           mediaPosition="left"
           mediaAnimation="slide-up"
