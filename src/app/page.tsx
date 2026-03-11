@@ -111,11 +111,11 @@ export default function LandingPage() {
           products={[
             {
               id: "1",              brand: "Tansil Goldfish",              name: "Ranchu Goldfish 🔥 Stok Terbatas",              price: "Rp 150.000 - Rp 500.000",              rating: 5,
-              reviewCount: "98",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773224371789-pishykgz.jpg",              imageAlt: "Ikan ranchu berkualitas tinggi"
+              reviewCount: "98",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773224371789-pishykgz.jpg?_wi=2",              imageAlt: "Ikan ranchu berkualitas tinggi"
             },
             {
               id: "2",              brand: "Tansil Goldfish",              name: "Oranda Goldfish 🔥 Stok Terbatas",              price: "Rp 120.000 - Rp 400.000",              rating: 5,
-              reviewCount: "87",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773224540396-dbefkpef.jpg",              imageAlt: "Ikan oranda cantik dan sehat"
+              reviewCount: "87",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773224540396-dbefkpef.jpg?_wi=2",              imageAlt: "Ikan oranda cantik dan sehat"
             },
             {
               id: "3",              brand: "Tansil Goldfish",              name: "Lionhead Goldfish 🔥 Stok Terbatas",              price: "Rp 180.000 - Rp 550.000",              rating: 5,
