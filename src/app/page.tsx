@@ -58,19 +58,19 @@ export default function LandingPage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/halfmoon-betta-fish_1150-7815.jpg",              imageAlt: "Koleksi ikan mas koki premium di akuarium"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773212522275-3uxtqgg5.jpg",              imageAlt: "Koleksi ikan mas koki premium di akuarium"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg?_wi=1",              imageAlt: "Ikan ranchu berkualitas tinggi"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773222757462-0mmwp5s6.jpg",              imageAlt: "Ikan ranchu berkualitas tinggi"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg?_wi=1",              imageAlt: "Ikan oranda cantik di air"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773222775614-49umnwv0.jpg",              imageAlt: "Ikan oranda cantik di air"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg?_wi=1",              imageAlt: "Ikan lionhead premium collection"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773222996620-fqqrp4b7.jpg",              imageAlt: "Ikan lionhead premium collection"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=1",              imageAlt: "Ikan ryukin berkualitas sempurna"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773212873332-pwbceh5r.jpg",              imageAlt: "Ikan ryukin berkualitas sempurna"
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg?_wi=1",              imageAlt: "Ikan mas koki muda sehat"
@@ -90,7 +90,7 @@ export default function LandingPage() {
             { value: "5.0★", title: "Rating Google Sempurna" },
             { value: "1000+", title: "Pelanggan Puas di Karawang" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/female-butcher-demonstrating-meat-woman_7502-4774.jpg?_wi=1"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773223234397-c66o0yby.jpg"
           imageAlt="Toko ikan Tansil Goldfish profesional"
           useInvertedBackground={false}
           mediaAnimation="slide-up"
@@ -111,11 +111,11 @@ export default function LandingPage() {
           products={[
             {
               id: "1",              brand: "Tansil Goldfish",              name: "Ranchu Goldfish 🔥 Stok Terbatas",              price: "Rp 150.000 - Rp 500.000",              rating: 5,
-              reviewCount: "98",              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg?_wi=2",              imageAlt: "Ikan ranchu berkualitas tinggi"
+              reviewCount: "98",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773224371789-pishykgz.jpg",              imageAlt: "Ikan ranchu berkualitas tinggi"
             },
             {
               id: "2",              brand: "Tansil Goldfish",              name: "Oranda Goldfish 🔥 Stok Terbatas",              price: "Rp 120.000 - Rp 400.000",              rating: 5,
-              reviewCount: "87",              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg?_wi=2",              imageAlt: "Ikan oranda cantik dan sehat"
+              reviewCount: "87",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Akw5RTuUjo87CpGTp4MvMvfGkM/uploaded-1773224540396-dbefkpef.jpg",              imageAlt: "Ikan oranda cantik dan sehat"
             },
             {
               id: "3",              brand: "Tansil Goldfish",              name: "Lionhead Goldfish 🔥 Stok Terbatas",              price: "Rp 180.000 - Rp 550.000",              rating: 5,
