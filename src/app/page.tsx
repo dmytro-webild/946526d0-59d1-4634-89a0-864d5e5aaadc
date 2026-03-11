@@ -10,9 +10,13 @@ import TestimonialCardSix from '@/components/sections/testimonial/TestimonialCar
 import FaqSplitMedia from '@/components/sections/faq/FaqSplitMedia';
 import ContactCenter from '@/components/sections/contact/ContactCenter';
 import FooterBase from '@/components/sections/footer/FooterBase';
-import { Star, Award, Fish, MapPin } from 'lucide-react';
+import { Star, Award, Fish, MapPin, MessageCircle } from 'lucide-react';
 
 export default function LandingPage() {
+  const handleWhatsAppClick = () => {
+    window.open('https://wa.me/6281231223553', '_blank');
+  };
+
   return (
     <ThemeProvider
       defaultButtonVariant="elastic-effect"
@@ -50,7 +54,7 @@ export default function LandingPage() {
           tagIcon={Star}
           background={{ variant: "sparkles-gradient" }}
           buttons={[
-            { text: "Chat WhatsApp Sekarang", href: "https://wa.me/6281231223553" }
+            { text: "💬 Chat WhatsApp", href: "https://wa.me/6281231223553" }
           ]}
           mediaItems={[
             {
@@ -261,12 +265,13 @@ export default function LandingPage() {
         <ContactCenter
           tag="Hubungi Kami"
           title="Siap Melayani Anda"
-          description="Hubungi Tansil Goldfish sekarang juga untuk mendapatkan ikan mas koki berkualitas terbaik atau konsultasi perawatan ikan Anda."
+          description="Hubungi Tansil Goldfish sekarang juga melalui WhatsApp untuk mendapatkan ikan mas koki berkualitas terbaik atau konsultasi perawatan ikan Anda."
           background={{ variant: "sparkles-gradient" }}
           useInvertedBackground={false}
-          inputPlaceholder="Masukkan email Anda"
-          buttonText="Daftar Sekarang"
-          termsText="Kami akan mengirimkan tips perawatan ikan dan penawaran khusus ke email Anda. Privasi Anda terjamin."
+          inputPlaceholder="0812-3122-3553"
+          buttonText="Chat WhatsApp Sekarang"
+          termsText="Klik tombol untuk menghubungi kami langsung via WhatsApp. Tim Tansil Goldfish siap melayani Anda dengan cepat dan profesional."
+          onSubmit={handleWhatsAppClick}
         />
       </div>
 
