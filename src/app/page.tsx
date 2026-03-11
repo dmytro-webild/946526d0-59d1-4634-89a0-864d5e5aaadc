@@ -34,7 +34,7 @@ export default function LandingPage() {
         <NavbarStyleCentered
           navItems={[
             { name: "Tentang", id: "about" },
-            { name: "Produk Ikan", id: "products" },
+            { name: "Produk Ikan", id: "/products" },
             { name: "Kenapa Kami", id: "features" },
             { name: "Kontak", id: "contact" },
             { name: "Testimoni", id: "testimonials" }
@@ -283,7 +283,7 @@ export default function LandingPage() {
             {
               title: "Layanan",              items: [
                 { label: "Tentang Kami", href: "#about" },
-                { label: "Produk Ikan", href: "#products" },
+                { label: "Produk Ikan", href: "/products" },
                 { label: "Kenapa Kami", href: "#features" },
                 { label: "Testimoni", href: "#testimonials" }
               ]
