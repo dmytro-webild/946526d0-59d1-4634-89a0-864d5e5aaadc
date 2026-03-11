@@ -107,15 +107,15 @@ export default function LandingPage() {
           animationType="slide-up"
           products={[
             {
-              id: "1",              brand: "Tansil Goldfish",              name: "Ranchu Goldfish",              price: "Rp 150.000 - Rp 500.000",              rating: 5,
+              id: "1",              brand: "Tansil Goldfish",              name: "Ranchu Goldfish 🔥 Stok Terbatas",              price: "Rp 150.000 - Rp 500.000",              rating: 5,
               reviewCount: "98",              imageSrc: "http://img.b2bpic.net/free-photo/sad-betta-fish-swimming-plastic-cups_23-2148359865.jpg?_wi=2",              imageAlt: "Ikan ranchu berkualitas tinggi"
             },
             {
-              id: "2",              brand: "Tansil Goldfish",              name: "Oranda Goldfish",              price: "Rp 120.000 - Rp 400.000",              rating: 5,
+              id: "2",              brand: "Tansil Goldfish",              name: "Oranda Goldfish 🔥 Stok Terbatas",              price: "Rp 120.000 - Rp 400.000",              rating: 5,
               reviewCount: "87",              imageSrc: "http://img.b2bpic.net/free-photo/gradient-violet-pink-dumbo-betta-splendens-fighting-fish_23-2148359848.jpg?_wi=2",              imageAlt: "Ikan oranda cantik dan sehat"
             },
             {
-              id: "3",              brand: "Tansil Goldfish",              name: "Lionhead Goldfish",              price: "Rp 180.000 - Rp 550.000",              rating: 5,
+              id: "3",              brand: "Tansil Goldfish",              name: "Lionhead Goldfish 🔥 Stok Terbatas",              price: "Rp 180.000 - Rp 550.000",              rating: 5,
               reviewCount: "92",              imageSrc: "http://img.b2bpic.net/free-photo/siam-betta-fish_1150-7811.jpg?_wi=2",              imageAlt: "Ikan lionhead premium"
             },
             {
@@ -123,7 +123,7 @@ export default function LandingPage() {
               reviewCount: "76",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=2",              imageAlt: "Ikan ryukin berkualitas"
             },
             {
-              id: "5",              brand: "Tansil Goldfish",              name: "Baby Goldfish",              price: "Rp 25.000 - Rp 75.000",              rating: 5,
+              id: "5",              brand: "Tansil Goldfish",              name: "Baby Goldfish ⚡ Sangat Cepat Habis",              price: "Rp 25.000 - Rp 75.000",              rating: 5,
               reviewCount: "114",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg",              imageAlt: "Ikan mas koki muda sehat"
             }
           ]}
