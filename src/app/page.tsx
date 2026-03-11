@@ -70,7 +70,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-goldfish_1137-261.jpg?_wi=1",              imageAlt: "Ikan ryukin berkualitas sempurna"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg",              imageAlt: "Ikan mas koki muda sehat"
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg?_wi=1",              imageAlt: "Ikan mas koki muda sehat"
             }
           ]}
           mediaAnimation="slide-up"
@@ -124,7 +124,7 @@ export default function LandingPage() {
             },
             {
               id: "5",              brand: "Tansil Goldfish",              name: "Baby Goldfish ⚡ Sangat Cepat Habis",              price: "Rp 25.000 - Rp 75.000",              rating: 5,
-              reviewCount: "114",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg",              imageAlt: "Ikan mas koki muda sehat"
+              reviewCount: "114",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-betta-fish-with-copy-space_23-2148359882.jpg?_wi=2",              imageAlt: "Ikan mas koki muda sehat"
             }
           ]}
           buttons={[
